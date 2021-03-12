@@ -77,7 +77,7 @@ section {
     background-position: center;
     position: relative;
 }
-
+/* Hero Style End */
 .hero-form {
     padding: 20px;
     width: 500px;
@@ -85,8 +85,8 @@ section {
     background-color: #fce138;
     border: solid 3px #024e76;
     position: absolute;
-    right: 120px;
-    bottom:80px;
+    right: 140px;
+    bottom: 120px;
 }
 
 .hero-form h3 {
@@ -119,4 +119,3 @@ section {
     padding: 10px 20px;
     font-size: 16px;
 }
-/* Hero Style End */
