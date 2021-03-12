@@ -85,7 +85,8 @@ section {
     background-color: #fce138;
     border: solid 3px #024e76;
     position: absolute;
-    right: 140px;
+    right: 120px;
+    bottom:80px;
 }
 
 .hero-form h3 {
@@ -105,27 +106,6 @@ section {
     color: #024e76;
     width: 100%;
     margin-bottom: 15px;
-  }
-
-input[type=text] {
-    width: 100%;
-    padding: 7px 15px;
-    margin: 8px 0;
-    box-sizing: border-box;
-  }
-
-input[type=email] {
-    width: 100%;
-    padding: 7px 15px;
-    margin: 8px 0;
-    box-sizing: border-box;
-  }
-
-input[type=tel] {
-    width: 100%;
-    padding: 7px 15px;
-    margin: 8px 0;
-    box-sizing: border-box;
   }
 
 .hero-form label {
